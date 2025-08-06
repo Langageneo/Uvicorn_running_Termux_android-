@@ -5,10 +5,6 @@
 ![Uvicorn_running sur Android](https://github.com/Langageneo/Uvicorn_running/blob/main/neoin.png)
 *Uvicorn_running démarré sur Android – Assistant Cyborg Neo en action*
 
-![Assistant néo](https://github.com/Langageneo/Cyborg_termux.py-/blob/main/Screenshot_20250716-173431.png)
-*Assistant néo – Cyborg opérationnel sur Android*
-
----
 
 Avec l'IA, nous sommes passé du Langage-Néo aux faits vivant. J'ai pu créer mon propre assistant :  
 `$ python cyborg_termux.py`  
